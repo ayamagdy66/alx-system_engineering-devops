@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "sum of 128 and TRUEKNOWLEDGE , %d /n" "TRUEKNOWLEDGE"
+echo $(( 128 + $TRUEKNOWLEDGE ))

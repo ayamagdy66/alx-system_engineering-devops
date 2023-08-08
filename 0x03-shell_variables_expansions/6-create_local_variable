@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Best , %s" "School"
+Best="School"

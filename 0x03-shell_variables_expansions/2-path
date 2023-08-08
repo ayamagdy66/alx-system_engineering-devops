@@ -1,2 +1,3 @@
 #!/bin/bash
-export path="$path:/action"
+export path="$path:/path/action"
+~

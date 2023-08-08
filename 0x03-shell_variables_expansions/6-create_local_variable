@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$BEST" "School"
+MY_VAR="School" | echo "$Best"
